@@ -98,3 +98,43 @@
     padding: 0 20px;
     cursor: pointer;
 }
+
+.menuItem {
+    display: flex;
+    width: 500px;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #e0e0eb;
+}
+
+.memuDetails {
+    width: 280px;
+}
+
+.menuItemImg {
+    width: 100px;
+    border-radius: 10px;
+}
+
+.user-card {
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.details-display {
+    display: flex;
+    width: 350px;
+    justify-content: space-around;
+}
+
+.avatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}

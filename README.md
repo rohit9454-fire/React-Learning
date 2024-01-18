@@ -52,4 +52,12 @@
 
 # 2. Named Export / Import
         export const Component;
-        import {Component} from 'path';
+        import {Component} from 'path'; 
+# React Hooks
+        Normal JS utility functions
+        - useState() - Superpowerful State Variables in react
+        - useEffect()_
+
+# 2 Types Routing in web apps
+        Client Side Routing - It's just the Routing of Component i.e client side routing.
+        Server Side Routing - When the data is comming from server and routing is depends upon data.
